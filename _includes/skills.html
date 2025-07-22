@@ -1,23 +1,13 @@
 <section id="skills" class="skills-section">
-    <h2>Skills</h2>
-        
-    <ul class="skill-categories">
-        {% for skill in site.skills %}
-          <li>
-            <div class="skills-card">
-              <span class="category-label">{{ skill.category}}</span>
-            
-              <ul class="skills-list">
-                {% for skill in skill.tools %}
-                  <li class="skill">
-                    {{ skill }}
-                  </li>
-                {% endfor %}
-                </ul>
-            </div>
-            
-          </li> 
-        {% endfor %}
-      </ul>
+  <h2>ROS1 Project</h2>
 
+  <div class="skills-card" style="padding: 1.5rem; text-align: center;">
+    <a href="https://github.com/Alridge-2403164/Alridge-2403164.github.io"
+       target="_blank"
+       class="ros-link"
+       style="text-decoration: none; color: inherit; display: block;">
+      <h3 style="margin-bottom: 0.5rem;">View ROS1 GitHub Repository</h3>
+      <p style="color: #3b82f6;">github.com/yourusername/ros1-repo-name</p>
+    </a>
+  </div>
 </section>
