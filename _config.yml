@@ -42,17 +42,17 @@ external-links:    # input only your own url slug. The icons with missing entrie
   
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
-skills:
-  - category: ROS
-    tools:
-    - navigation stack
-    - transformations
-    - tf2
-    - mapping (SLAM)
-    - path planning
-    - AMCL
-    - gmapping
-    - move_base
+ROS1 params & codes used for the project
+#  - category: ROS
+#    tools:
+#    - navigation stack
+#    - transformations
+#    - tf2
+#    - mapping (SLAM)
+#    - path planning
+#    - AMCL
+#    - gmapping
+#    - move_base
 
 
 
