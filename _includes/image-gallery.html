@@ -1,7 +1,7 @@
 {% assign image_paths = include.images | split: ", " %}
 {% assign gallery_height = include.height | default: "300" %}
 {% assign base_path = page.url %}
-{% unless base_path endswith '/' %}
+
   {% assign base_path = base_path | append: '/' %}
 {% endunless %}
 
