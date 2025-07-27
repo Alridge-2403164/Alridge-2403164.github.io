@@ -3,7 +3,6 @@
 {% assign base_path = page.url %}
 
   {% assign base_path = base_path | append: '/' %}
-{% endunless %}
 
 <div class="image-gallery" style="--gallery-height: {{ gallery_height }}px;">
   {% for image_path in image_paths %}
