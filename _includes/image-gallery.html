@@ -1,11 +1,8 @@
 {% assign image_paths = include.images | split: ", " %}
 {% assign gallery_height = include.height | default: "300" %}
 
-{%- assign base_path = page.url -%}
-{%- assign last_char = base_path | slice: -1 -%}
-{%- if last_char != "/" -%}
-  {%- assign base_path = base_path | append: "/" -%}
-{%- endif -%}
+{%- assign base_path = page.url | remove: 'index.html' | remove: 'index' -% %}
+{%- assign base_path = base_path | replace: '//', '/' -% %}
 
 <div class="image-gallery" style="--gallery-height: {{ gallery_height }}px;">
   {% for image_path in image_paths %}
