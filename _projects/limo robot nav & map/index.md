@@ -26,3 +26,11 @@ main-image: /arenashot.jpg
 
 
 **Robot Requirements**: Arena environment must be able to be mapped and is sufficiently traversable by provided Limo Robot of dimensions 320mm x 220mm.
+
+---
+
+## Designing the Environment
+**Drafting Layouts**: Utilizing CAD software such as 3DSolidWorks to create possible layouts and come up with features as obstacles. This layout closely mirrors the theme of Changi Airport Terminal 2 and its iconic feature, the Holographic Waterfall.
+
+{% include image-gallery.html images="Assem arena desgin final.JPG" height="400" %} 
+            *The selected layout design for the simulated environment*
