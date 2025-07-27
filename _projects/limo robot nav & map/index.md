@@ -30,7 +30,7 @@ main-image: /arenashot.jpg
 ---
 ## Designing the Environment
 **Context Exploration**: Venturing to Changi Airport Terminal 2 to gain insight into the features to fabricate for the simulated environment, the following was selected.
-{% include image-gallery.html images="assets/images/profile-image/featuresT2.png" height="400" %}
+./assets/images/profile-image/featuresT2.png
 
 **Drafting Layouts**: Utilizing CAD software such as 3DSolidWorks to create possible layouts and come up with features as obstacles. This layout closely mirrors the theme of Changi Airport Terminal 2 and its iconic feature, the Holographic Waterfall.
 
