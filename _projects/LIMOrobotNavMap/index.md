@@ -13,7 +13,7 @@ main-image: /arenashot.jpg
 ---
 # Simulated Testing Environment (Arena)
 ## Design Constraints
-**Area/Sizing**: To utilize a plot of dimensions 1300 mm x 1500 mm.
+**Area/Sizing**: To an allocated plot of dimensions 1300 mm x 1500 mm.
 
 
 **Budget**: Within a spending of $600.
