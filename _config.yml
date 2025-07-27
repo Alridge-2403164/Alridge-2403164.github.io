@@ -42,7 +42,7 @@ external-links:    # input only your own url slug. The icons with missing entrie
   
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
-ROS1 params & codes used for the project
+# ROS1 params & codes used for the project
 #  - category: ROS
 #    tools:
 #    - navigation stack
