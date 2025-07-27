@@ -38,17 +38,20 @@ main-image: /arenashot.jpg
 {% include image-gallery.html images="Assem arena desgin final.JPG" height="400" %} 
             *The selected layout design for the simulated environment*
 
-**Materials Selection**: Selecting materials due to the ease of shaping or decorating and low expenses:
-Walls/Base -> Dense Polystryrene foam boards
----
-Terminal counters/benches -> Styrofoam circular wheel shaped
----
-Check-in kiosks -> Styrofoam pieces carved and glued together held with skewer sticks
----
-Poles/Pillars -> PVC hollow pipes
----
-Path flooring -> Laminate marble wallpaper
----
-Additional/Aesthetic materials -> Hanging/Vine Plants/Plant Walls, Wood type Wallpaper, Sea Blue Felt non-pathing flooring
----
+## Materials Selection
+
+Selecting materials based on ease of shaping, decorating, and affordability:
+
+- **Walls/Base**: Dense polystyrene foam boards  
+- **Terminal counters/benches**: Styrofoam circular wheel shapes  
+- **Check-in kiosks**: Styrofoam pieces carved and glued together, held with skewer sticks  
+- **Poles/Pillars**: PVC hollow pipes  
+- **Path flooring**: Laminate marble wallpaper  
+- **Additional/Aesthetic materials**:
+  - Hanging/Vine Plants / Plant Walls  
+  - Wood-type wallpaper  
+  - Sea blue felt for non-pathing flooring
+
+## Actualizing the Simulated Environment
+{% include image-gallery.html images="arenashot.jpg" height="400" %}
  
